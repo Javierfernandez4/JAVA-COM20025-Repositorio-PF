@@ -1,0 +1,6 @@
+[
+    {"nombre":"Plan de alimentacion para bajo peso" , "imagen":"desnutricion.jpg"},
+    {"nombre":"Plan de alimentacion para peso saludable", "imagen":"saludable.jpg"},
+    {"nombre":"Plan de alimentacion para sobrepeso y obesidad", "imagen":"obesidad.jpg"}
+    
+]

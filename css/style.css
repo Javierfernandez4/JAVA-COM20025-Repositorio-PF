@@ -1,0 +1,77 @@
+
+.fondo{
+    background-image: url(/media/cook-2364221.jpg);
+}
+
+#formulario{
+    font-family: 'Nunito';
+}
+
+.btn{
+    border-style: dotted;
+    border-color: green;
+    background-color: rgb(127, 219, 127);
+    text-align: center;
+}
+#p1{
+    background-color: green;
+    text-align: center;
+    font-family: 'Nunito';
+    font-size: 40px;
+}
+
+#lista{
+    color: honeydew;
+    background-color: rgb(100, 175, 38);
+    font-family: 'Nunito';
+}
+.botonimc{
+    margin-top: 5%;
+    color: honeydew;
+    background-color: rgb(83, 165, 87);
+    border-style:initial ;
+    justify-items: center;
+    font-weight: bold ;
+}
+
+.card-title{
+    color: aliceblue;
+    background-color: aliceblue;
+    font-family: 'Nunito';
+    text-decoration-color: aliceblue;
+}
+.p-3{
+    color: aliceblue;
+}
+.text-primary{
+    color: aliceblue;
+}
+.card-body{
+    background-color: bisque;
+}
+.text-uppercase{
+    background-color: bisque;
+    text-decoration: aliceblue;
+ 
+}
+
+.btn{
+    background-color: rgb(100, 175, 38);
+    font-family: 'Nunito';
+}
+.btn:hover{
+    background-color: rgb(152, 241, 79) ;
+    border-color:  rgb(152, 241, 79) ;
+}
+.card:hover{
+    transform: translateY(-15px);
+    box-shadow: 0px 12px 16px rgba(0,0,0,0.2);
+}
+
+#error{
+    background-color: black;
+    color: aliceblue;
+    font-family: 'Nunito';
+    font-weight: bold;
+    text-align: center;
+}
